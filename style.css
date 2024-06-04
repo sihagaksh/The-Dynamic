@@ -1,0 +1,25 @@
+
+.dropdown-item{
+    color: rgb(49, 108, 244);
+}
+.dropdown-item:hover{
+    background-color: rgb(49, 108, 244);
+    color: white;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+.nav-link{
+    color: white;
+}
+.navbar-brand{
+    font-size: 1.5rem;
+}
+.card{
+    border: 3px solid rgb(245, 196, 67);
+    border-radius: 8px;
+}
+.emptyspace{
+    height: 16vh;
+    width: 100px;
+}
